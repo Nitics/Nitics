@@ -18,7 +18,7 @@
 
 I build modern workplace and business solutions on the **Microsoft 365** and **Power Platform** ecosystem, from custom SharePoint web parts to automated workflows, dashboards, and AI-powered chatbots. I also work with **C# / .NET** and **data science** to turn data into insight.
 
-- 🔭 Currently working on **PROJECT NAME**
+- 🔭 Currently working on SPFX Document Management webpart
 - 🌱 Currently learning **e.g. Copilot Studio, Azure AI, Microsoft Fabric**
 - 💬 Ask me about **SharePoint, SPFx, Power Apps, Power Automate, Power BI**
 - 🤝 Open to collaborating on **Microsoft 365 / Power Platform solutions**
